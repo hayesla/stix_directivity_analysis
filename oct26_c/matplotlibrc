@@ -1,0 +1,9 @@
+
+xtick.direction : in
+ytick.direction : in
+xtick.minor.visible : True
+ytick.minor.visible : True
+font.family : Helvetica
+savefig.bbox : tight
+savefig.dpi : 300
+savefig.facecolor : white
